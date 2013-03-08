@@ -1,2 +1,4 @@
-mediacommons_profile
+MediaCommons Base Profile
 ====================
+
+Installation Profile for MediaCommons
