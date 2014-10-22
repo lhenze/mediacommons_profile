@@ -3,7 +3,6 @@ description = Installation Profile for MediaCommons projects
 core = 7.x
 
 dependencies[] = block
-dependencies[] = color
 dependencies[] = comment
 dependencies[] = contextual
 dependencies[] = dashboard
@@ -23,4 +22,9 @@ dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
 
-dependencies[] = mediacommons_editorialworkflow
+dependencies[] = mediacommons_content_types
+dependencies[] = mediacommons_roles_and_permissions
+dependencies[] = mediacommons_text_formats
+dependencies[] = mediacommons_blocks
+
+dependencies[] = mc_global_nav
