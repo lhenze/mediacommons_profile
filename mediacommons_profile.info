@@ -28,6 +28,14 @@ dependencies[] = diff
 dependencies[] = libraries
 dependencies[] = ctools
 dependencies[] = strongarm
+dependencies[] = diff
+dependencies[] = features
+dependencies[] = pathauto
+dependencies[] = libraries
+dependencies[] = devel
+dependencies[] = jquery_update
+dependencies[] = nodequeue
+
 
 
 dependencies[] = mediacommons_content_types
